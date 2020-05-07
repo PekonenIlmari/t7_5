@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">t7_5</string>
+    <string name="read">Lataus</string>
+    <string name="write">Tallennus</string>
+    <string name="file_name">Anna tiedoston nimi</string>
+    <string name="input">Kirjoita jotain</string>
+    <string name="info">Anna kirjoitettavan tiedoston\nnimi ja kirjoita jotain.</string>
+</resources>
